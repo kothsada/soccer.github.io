@@ -1,0 +1,41 @@
+/* 1 */
+{
+    "_id" : ObjectId("62a2c792ee61f4e4a06cb3fc"),
+    "full_name" : "SCDev",
+    "email" : "somchithcom2@gmail.com",
+    "google_id" : "YrSbKGma7obs3RB7gmUunlRIIcL2",
+    "reward_point" : 0,
+    "is_blocked" : false,
+    "is_active" : true,
+    "createdAt" : ISODate("2022-06-10T04:24:50.951Z"),
+    "updatedAt" : ISODate("2022-06-23T13:56:56.615Z"),
+    "__v" : 0
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("62a82e4935a309d8b79dbe43"),
+    "full_name" : "Test User from Unit testing",
+    "phone" : "25264444",
+    "password" : "$2b$10$wEPd08.8We0/B5C/TXUDfOUZX5nYwEyiM/HPlavXPmLd6RkZq9FH.",
+    "reward_point" : 0,
+    "is_blocked" : false,
+    "is_active" : true,
+    "createdAt" : ISODate("2022-06-14T06:44:25.792Z"),
+    "updatedAt" : ISODate("2022-06-23T13:56:51.760Z"),
+    "__v" : 0
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("62ac7dbc12d5e6677e347b16"),
+    "full_name" : "Deego Official",
+    "email" : "officialdeego@gmail.com",
+    "google_id" : "DpXdDCYT54Uw1ItEtFzbwGP7zdJ3",
+    "reward_point" : 0,
+    "is_blocked" : false,
+    "is_active" : true,
+    "createdAt" : ISODate("2022-06-17T13:12:28.467Z"),
+    "updatedAt" : ISODate("2022-06-23T13:58:32.225Z"),
+    "__v" : 0
+}

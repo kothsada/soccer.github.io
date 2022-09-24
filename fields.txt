@@ -1,0 +1,47 @@
+/* 1 */
+{
+    "_id" : ObjectId("62b071eaaf532ecc09b8a9a3"),
+    "name" : "ເດີ່ນ A+",
+    "size" : "30x60 m",
+    "grass_type" : "plastic",
+    "image_url" : [],
+    "indoor" : false,
+    "merchant_id" : ObjectId("62ad728251fcaf924552df63"),
+    "statium_id" : ObjectId("62b2b5e367eeb603ac1e378b"),
+    "is_active" : true,
+    "createdAt" : ISODate("2022-06-20T13:11:06.957Z"),
+    "updatedAt" : ISODate("2022-06-20T13:11:06.957Z"),
+    "__v" : 0
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("62b07208af532ecc09b8a9a6"),
+    "name" : "ເດີ່ນ B+",
+    "size" : "30x60 m",
+    "grass_type" : "grass",
+    "image_url" : [],
+    "indoor" : false,
+    "merchant_id" : ObjectId("62ad728251fcaf924552df63"),
+    "statium_id" : ObjectId("62b2b5e367eeb603ac1e378b"),
+    "is_active" : true,
+    "createdAt" : ISODate("2022-06-20T13:11:36.963Z"),
+    "updatedAt" : ISODate("2022-06-20T13:11:36.963Z"),
+    "__v" : 0
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("62b07255af532ecc09b8a9a9"),
+    "name" : "ເດີ່ນ Futsal",
+    "size" : "20x35 m",
+    "grass_type" : "plastic",
+    "image_url" : [],
+    "indoor" : false,
+    "merchant_id" : ObjectId("62ad728251fcaf924552df63"),
+    "statium_id" : ObjectId("62b2b5e367eeb603ac1e378b"),
+    "is_active" : true,
+    "createdAt" : ISODate("2022-06-20T13:12:53.114Z"),
+    "updatedAt" : ISODate("2022-06-20T13:12:53.114Z"),
+    "__v" : 0
+}

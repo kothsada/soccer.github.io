@@ -1,0 +1,16 @@
+/* 1 */
+{
+    "_id" : ObjectId("62b2d94a27c558612f213a85"),
+    "start_time" : "13:30",
+    "end_time" : "12:30",
+    "price" : 350000,
+    "indoor" : false,
+    "merchant_id" : ObjectId("62ad728251fcaf924552df63"),
+    "service_id" : ObjectId("62ac843112d5e6677e347b2f"),
+    "statium_id" : ObjectId("62b2b5e367eeb603ac1e378b"),
+    "field_id" : ObjectId("62b071eaaf532ecc09b8a9a3"),
+    "is_active" : true,
+    "createdAt" : ISODate("2022-06-22T08:56:42.770Z"),
+    "updatedAt" : ISODate("2022-06-22T08:56:42.770Z"),
+    "__v" : 0
+}
